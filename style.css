@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(./img/papel-de-parede-de-fundo-calculadora.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
